@@ -1,0 +1,5 @@
+project: ltesniffer
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
